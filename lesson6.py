@@ -50,5 +50,5 @@ def fak (u):
     if u == 0:
         return 1
     else:
-         return u *factorial(u - 1)* u
+     return u *factorial (u - 1)* u
     print(fak(5))
